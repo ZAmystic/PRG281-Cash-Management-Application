@@ -1,0 +1,15 @@
+C:\Project Files\Cash Management Console Application\PRG281_Project\PRG281_Project\bin\Debug\net8.0\PRG281_Project.exe
+C:\Project Files\Cash Management Console Application\PRG281_Project\PRG281_Project\bin\Debug\net8.0\PRG281_Project.deps.json
+C:\Project Files\Cash Management Console Application\PRG281_Project\PRG281_Project\bin\Debug\net8.0\PRG281_Project.runtimeconfig.json
+C:\Project Files\Cash Management Console Application\PRG281_Project\PRG281_Project\bin\Debug\net8.0\PRG281_Project.dll
+C:\Project Files\Cash Management Console Application\PRG281_Project\PRG281_Project\bin\Debug\net8.0\PRG281_Project.pdb
+C:\Project Files\Cash Management Console Application\PRG281_Project\PRG281_Project\obj\Debug\net8.0\PRG281_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project Files\Cash Management Console Application\PRG281_Project\PRG281_Project\obj\Debug\net8.0\PRG281_Project.AssemblyInfoInputs.cache
+C:\Project Files\Cash Management Console Application\PRG281_Project\PRG281_Project\obj\Debug\net8.0\PRG281_Project.AssemblyInfo.cs
+C:\Project Files\Cash Management Console Application\PRG281_Project\PRG281_Project\obj\Debug\net8.0\PRG281_Project.csproj.CoreCompileInputs.cache
+C:\Project Files\Cash Management Console Application\PRG281_Project\PRG281_Project\obj\Debug\net8.0\PRG281_Project.sourcelink.json
+C:\Project Files\Cash Management Console Application\PRG281_Project\PRG281_Project\obj\Debug\net8.0\PRG281_Project.dll
+C:\Project Files\Cash Management Console Application\PRG281_Project\PRG281_Project\obj\Debug\net8.0\refint\PRG281_Project.dll
+C:\Project Files\Cash Management Console Application\PRG281_Project\PRG281_Project\obj\Debug\net8.0\PRG281_Project.pdb
+C:\Project Files\Cash Management Console Application\PRG281_Project\PRG281_Project\obj\Debug\net8.0\PRG281_Project.genruntimeconfig.cache
+C:\Project Files\Cash Management Console Application\PRG281_Project\PRG281_Project\obj\Debug\net8.0\ref\PRG281_Project.dll
